@@ -1,10 +1,9 @@
 //
 //  UINavigationController+ZHTransition.m
-//  TEST
 //
-//  Created by Zason_Hao on 2017/8/23.
-//  Copyright © 2017年 郝兆超. All rights reserved.
+//  Created by Zason_Hao
 //
+//  E-mail:zason_hao@aliyun.com
 
 #import "UINavigationController+ZHTransition.h"
 #import "ZHDisappearTransition.h"

@@ -1,13 +1,11 @@
 //
 //  ZHDisappearTransition.m
-//  TEST
 //
-//  Created by Zason_Hao on 2017/8/29.
-//  Copyright © 2017年 郝兆超. All rights reserved.
+//  Created by Zason_Hao
 //
+//  E-mail:zason_hao@aliyun.com
 
 #import "ZHDisappearTransition.h"
-//#import "ZHDisplayTransition.h"
 
 @implementation ZHDisappearTransition
 

@@ -1,10 +1,9 @@
 //
 //  UIViewController+ZHTransition.m
-//  TEST
 //
-//  Created by Zason_Hao on 2017/8/22.
-//  Copyright © 2017年 郝兆超. All rights reserved.
+//  Created by Zason_Hao
 //
+//  E-mail:zason_hao@aliyun.com
 
 #import "UIViewController+ZHTransition.h"
 #import "ZHDisappearTransition.h"
